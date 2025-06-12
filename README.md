@@ -18,12 +18,12 @@ In *THyper-Drive*, you drive a fast futuristic car through endless traffic on a 
 
 This game is made for PC and only needs a keyboard to play. The car moves forward by itself. Your job is to:
 
-- Steer left and right  
+- Steer left and right
 - Avoid enemy cars
 
 The more distance you cover, the higher your score. If you crash into something, the game ends. Try again and beat your high score!
 
-![Logo](data/Res/gameplay.jpeg)
+[Watch video](data/res/demo.mp4)
 
 ---
 
