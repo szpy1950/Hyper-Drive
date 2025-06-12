@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Traffic Rider:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Traffic_Rider_jar</output-path>
+    <root id="archive" name="Traffic Rider.jar">
+      <element id="module-output" name="Traffic Rider" />
+      <element id="library" level="project" name="gdx2d-demoDesktop-1.2.2" />
+      <element id="library" level="project" name="gdx2d-desktop-1.2.2" />
+      <element id="library" level="project" name="gdx2d-desktop-1.2.2-sources" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Libs/gdx2d-desktop-1.2.2.jar" path-in-jar="/" />
+      <element id="library" level="project" name="gdx2d-desktop-1.2.2-sources  (2)" />
+    </root>
+  </artifact>
+</component>
