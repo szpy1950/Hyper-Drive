@@ -23,7 +23,8 @@ This game is made for PC and only needs a keyboard to play. The car moves forwar
 
 The more distance you cover, the higher your score. If you crash into something, the game ends. Try again and beat your high score!
 
-[Watch video](data/res/demo.mp4)
+[YouTube Video](https://youtu.be/QWKWhKM8sB8)
+
 
 ---
 
